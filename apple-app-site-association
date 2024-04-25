@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {      	   
+        "appIDs": [
+        	"ENTLMP7F2G.com.udid.payapp"
+        ],
+        "components": [
+            {
+                "/": "/payapp-request",
+            }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+        "apps": ["ENTLMP7F2G.com.udid.payapp.Clip"]
+   }
+}
